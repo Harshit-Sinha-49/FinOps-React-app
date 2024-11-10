@@ -1,0 +1,82 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+*/
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+.form-style{
+  /* border: black 1px solid; */
+  width: 40%;
+  height: 50%;
+  padding: 15px;
+}       
+
+.my-style{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.right-form-style{
+  margin-bottom: 90px;
+}
+
+.my-table{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 90%;
+  border: 1.5px black solid;
+} 
+
+.submitBtn{
+  display: flex;
+  margin: 26px 0 0 62px;
+}
+
+th{
+  border: 1px black solid;
+  margin: 5px;
+  font-size: 1.2rem;
+}
+
+td{
+  /* border: 1px black solid; */
+}
+
+.readForm{
+  border: 1px black solid;
+  margin: 50px;
+  font-size: 1.2rem;
+}
+
+.editForm{
+  height: 100%;
+  width: 95%;
+}
+
+.form-group{
+  margin: 10px;
+  font-size: 1.5rem;
+}
+
+/* input{
+  margin: 10px;
+  font-size: 1.2rem;
+} */
+
+.form-control{
+  margin: 10px;
+  font-size: 1rem;
+}
